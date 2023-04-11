@@ -5,13 +5,13 @@ Building a COMPLETE React Admin Dashboard App | React, Material UI, Data Grid, L
 Some Screenshots are here:
 
 ### Dashboard in dark mode:
-![dark](/react-admin/public/assets/dark.png)
+![dark](https://github.com/n1az/react-control-panel/blob/master/public/assets/dark.png)
 
 ### Dashboard in light mode:
-![light](/react-admin/public/assets/light.png)
+![light](https://github.com/n1az/react-control-panel/blob/master/public/assets/light.png)
 
 ### Fully interactive calendar with event creator:
-![calendar](/react-admin/public/assets/dark.png)
+![calendar](https://github.com/n1az/react-control-panel/blob/master/public/assets/calendar.png)
 
 ### simple line chart:
-![lines](/react-admin/public/assets/light.png)
+![lines](https://github.com/n1az/react-control-panel/blob/master/public/assets/lines.png)
